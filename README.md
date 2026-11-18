@@ -16,9 +16,13 @@ Uberaba, MG · Full Stack · UI/UX
 
 ## Sobre
 
-Formada em Análise e Desenvolvimento de Sistemas pelo IFTM, com 2 anos de estágio criando aplicações web que foram para produção. Hoje faço a Especialização em Inteligência Artificial na Programadores do Amanhã.
+Tenho experiência desenvolvendo aplicações web que estão em produção, do protótipo no Figma até a interface funcionando e responsiva.
 
-Gosto de ir do protótipo no Figma até a tela funcionando, cuidando de performance, SEO e acessibilidade no caminho.
+- **Front-end:** interfaces em React, JavaScript, HTML e CSS, com foco em performance, SEO e acessibilidade.
+- **Back-end:** regras de negócio e consultas em PHP e MySQL, integradas por APIs REST e GraphQL.
+- **WordPress:** temas e plugins sob medida, incluindo arquiteturas Headless.
+- **Design:** prototipação e design de interfaces no Figma.
+- **IA:** uso de ferramentas como o Claude no dia a dia, para prototipar, programar e revisar, e estudo aprofundado de Inteligência Artificial.
 
 ## Tecnologias
 
